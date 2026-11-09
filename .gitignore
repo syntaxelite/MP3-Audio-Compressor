@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Personal audio files
+input/*
+!input/.gitkeep
+
+# Generated compressed audio
+output/*
+!output/.gitkeep
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

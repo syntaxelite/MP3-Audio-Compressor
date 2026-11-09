@@ -1,0 +1,2 @@
+# Runtime dependencies: Python standard library only.
+# Install FFmpeg with libmp3lame separately; the application does not install it.
